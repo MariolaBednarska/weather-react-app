@@ -10,7 +10,10 @@ root.render(
       <h1>Weather App</h1>
       <App />
       <footer>
-        <a href="">Open-source code</a>, by Mariola Bednarska
+        <a href="https://github.com/MariolaBednarska/weather-react-app">
+          Open-source code
+        </a>
+        , by Mariola Bednarska
       </footer>
     </div>
   </React.StrictMode>
